@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/123/123",
+    "pages/index/abc/abc",
+    "pages/index/dinosaur/dinosaur"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#1ECFA7",
+    "navigationBarTitleText": "BabyMaster 宝宝大师",
+    "navigationBarTextStyle": "black",
+    "backgroundTextStyle": "dark"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
